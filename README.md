@@ -6,8 +6,8 @@ books and articles 2022.01.31
 * [http://library.lol/](http://library.lol/)
 
 # Science
-* [Под знаком кванта 2007](https://books.ms/main/090CF971C16A11503150ED3935FB613B)
-* [Под знаком кванта 2012](https://libgen.rs/book/index.php?md5=4670B46C59343A193575B21B1668FB5D)
+* [Под знаком кванта 2007, Пономарёв Л.И.](https://books.ms/main/090CF971C16A11503150ED3935FB613B)
+* [Под знаком кванта 2012, Пономарёв Л.И.](https://libgen.rs/book/index.php?md5=4670B46C59343A193575B21B1668FB5D)
 * 
 * 
 ## LTE, NR
