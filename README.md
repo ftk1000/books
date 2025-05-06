@@ -9,6 +9,10 @@ books and articles 2022.01.31
 * [Под знаком кванта 2007, Пономарёв Л.И.](https://books.ms/main/090CF971C16A11503150ED3935FB613B)
 * [Под знаком кванта 2012, Пономарёв Л.И.](https://libgen.rs/book/index.php?md5=4670B46C59343A193575B21B1668FB5D)
   * Chapter 6
+    * The true meaning of words is revealed only in context
+    * The meaning of phenomena cannot be understood without knowing the origin of new concepts and their connections with previous concepts.
+    * Истинный смысл слов выясняется только в контексте.
+    * Смысл явлений нельзя понять, если не знать происхождения новых понятий и их связей с прежними понятиями.
     * Явление - Образ - Понятие - Формула
     * ПОНЯТИЕ ВОЛНА
       * различные ЯВЛЕНИЯ такие как волны на море, круги от камня брошенного в воду, колебания струны имеют конкретные ОБРАЗЫ.
