@@ -4,7 +4,7 @@
 * [lots of books on drevbook.org](https://drevbook.org) ----- [Наш телеграмм: t.me/drevbook](https://t.me/drevbook)
 * [Анна Каренина читает Евгений Павлович Терновский](https://www.youtube.com/watch?v=0vLkvkKRGHM)
   * Слушать целиком на нашем сайте: https://drevbook.org/ln-tolstoy/anna-karenina/ternovskiy
-* 
+* [Аудиозаписи Терновского на ютюб](https://www.youtube.com/results?search_query=+%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9+%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87+%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
 Here is a curated list of high-quality **free classical audiobook repositories** in **Russian and English**:
 
 ---
