@@ -4,6 +4,9 @@ books and articles 2022.01.31
 
 * [my github link etc/books.md](https://github.com/ftk1000/etc/blob/master/books.md)
 * [http://library.lol/](http://library.lol/)
+* https://github.com/ftk1000/papers
+* https://github.com/ftk1000/papers/blob/master/kolmogorov_etc.md
+* https://github.com/ftk1000/papers/blob/master/khafizov_ft.md
 
 # Science
 * [Под знаком кванта 2007, Пономарёв Л.И.](https://books.ms/main/090CF971C16A11503150ED3935FB613B)
